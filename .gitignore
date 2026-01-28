@@ -1,0 +1,10 @@
+# Ignore data & model files
+*.pkl
+*.csv
+
+# Environment files
+.env
+.venv/
+
+# Python cache
+__pycache__/
